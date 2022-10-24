@@ -20,7 +20,7 @@ namespace Ejercicio2
             tg = tp * p;
             //salida
             Console.WriteLine("El total de produccion de panes en un dia es de: " + tp);
-            Console.WriteLine("El ganancia total por la venta de" + np + "panes en un dia es de: $" + tg);
+            Console.WriteLine("La ganancia total por la venta de" + np + "panes en un dia es de: $" + tg);
             Console.ReadKey();
         }
     }
