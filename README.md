@@ -1,4 +1,4 @@
-# Cuadernillo-de-Ejercicios-de-C-
+# Cuadernillo-de-Ejercicios-de-C#
 - Este es trabajo es por parte de la universidad para la materia de Metodología de la Investigación.
 - En el se encuentran los códigos de 10 ejercicios inventados y planteados por nosotros.
 
